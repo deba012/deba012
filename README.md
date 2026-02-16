@@ -1,21 +1,69 @@
-<h1 align="center">Hi 👋, I'm DEBASHIS KAR</h1>
-<h3 align="center">A passionate Engineering Student from India</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" style="max-width: 100%; height: auto;" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deba012&label=Profile%20views&color=0e75b6&style=flat" alt="deba012" /> </p>
+<h1 align="center">
+  Hi, I'm <a href="https://github.com/deba012" target="_blank">Debashis Kar</a> 👋
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deba012" alt="deba012" /></a> </p>
+<h4 align="center">
+  <i>“A passionate B.Tech student who loves building, learning, and exploring tech one project at a time.”</i>
+</h4>
 
-- 🌱 I’m currently learning **Python, Data Science, Machine Learning**
+---
 
-- 📫 How to reach me **2k24.cs1h.2413083@gmail.com**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/debashis-kar-0b033830a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debashis-kar-0b033830a" height="30" width="40" /></a>
-<a href="https://instagram.com/true.living_debashis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="true.living_debashis" height="30" width="40" /></a>
+* 🎓 B.Tech Student 
+* 💻 Interested in **Software Development, Data Science, Machine Learning**
+* 🌱 Currently exploring **Data Structures, Machine Learning, Open Source and Data Science**
+* 🎯 Preparing for **Tech Interviews**
+* 🗣️ Working on improving **English speaking & communication skills**
+
+I enjoy creating useful projects, learning new technologies, and contributing to open source whenever I get the chance.
+
+---
+
+
+### 🛠️ Tech Stack
+
+| Category  | Technologies                                                              |
+| --------- | ------------------------------------------------------------------------- |
+| Languages | <img src="https://skillicons.dev/icons?i=python" /> |
+| Frontend  | <img src="https://skillicons.dev/icons?i=html,css,js" />           |
+| Tools     | <img src="https://skillicons.dev/icons?i=git,github,vscode" />            |
+
+---
+
+### 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=deba012\&custom_title=Debashis%20Kar's%20Contribution%20Graph\&bg_color=0d1117\&color=00bfff\&line=00bfff\&point=ffffff\&area=true\&hide_border=true)
+
+---
+
+### 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deba012&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deba012&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deba012&" alt="deba012" /></p>
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/deba012">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:2k24.cs1h.2413083@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/debashis-kar-0b033830a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ From [deba012](https://github.com/deba012)
