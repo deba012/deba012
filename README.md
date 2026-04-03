@@ -15,23 +15,10 @@
 ### 🚀 About Me
 
 * 🎓 B.Tech Student 
-* 💻 Interested in **Software Development, Data Science, Machine Learning**
-* 🌱 Currently exploring **Data Structures, Machine Learning, Open Source and Data Science**
 * 🎯 Preparing for **Tech Interviews**
 * 🗣️ Working on improving **English speaking & communication skills**
 
 I enjoy creating useful projects, learning new technologies, and contributing to open source whenever I get the chance.
-
----
-
-
-### 🛠️ Tech Stack
-
-| Category  | Technologies                                                              |
-| --------- | ------------------------------------------------------------------------- |
-| Languages | <img src="https://skillicons.dev/icons?i=python" /> |
-| Frontend  | <img src="https://skillicons.dev/icons?i=html,css,js" />           |
-| Tools     | <img src="https://skillicons.dev/icons?i=git,github,vscode" />            |
 
 ---
 
